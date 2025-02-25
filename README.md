@@ -1,1 +1,1 @@
-# Student_Management_System
+This project focuses on creating a user-friendly and feature-rich application that simplifies various student-related operations.  Leveraging the power of Java Swing, we have designed an intuitive graphical interface that allows for easy navigation and interaction.  MySQL, a powerful and reliable relational database management system, serves as the backbone for storing and retrieving student data, ensuring data integrity and security.
